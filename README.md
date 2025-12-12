@@ -1,5 +1,5 @@
 
-MP3 Tag Reader & Editor (ID3v2.3)
+# MP3 Tag Reader & Editor (ID3v2.3)
 
 A clean and efficient command-line utility written in ANSI C for parsing and editing MP3 metadata stored in ID3v2.3 tags.
 This project demonstrates binary parsing, memory handling, safe file operations, and modular C design — ideal for learning low-level file structure manipulation.
