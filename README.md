@@ -1,19 +1,3 @@
-This version includes:
-
-✔ Better structure
-
-✔ Professional badges
-
-✔ Clear descriptions
-
-✔ Table of contents
-
-✔ Screenshots/ASCII UI preview section
-
-✔ Contribution guidelines
-
-✔ Future enhancements
-
 
 MP3 Tag Reader & Editor (ID3v2.3)
 
